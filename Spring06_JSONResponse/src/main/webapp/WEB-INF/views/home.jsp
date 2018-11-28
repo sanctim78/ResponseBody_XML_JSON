@@ -12,6 +12,7 @@
 <ul>
 	<li><a href="json01.do">json응답</a></li>
 	<li><a href="json02.do">json응답2</a></li>
+	<li><a href="json03.do">json응답3</a></li>
 </ul>
 <h4>공지사항</h4>
 <ul>
