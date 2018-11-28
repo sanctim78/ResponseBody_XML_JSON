@@ -18,6 +18,9 @@
 	<li><a href="json06.do">json응답6</a></li>
 		<li><a href="json07.do">json응답7</a></li>
 		<li><a href="json08.do">json응답8</a></li>
+	<li><a href="xml01.do">xml응답 1</a></li>
+	<li><a href="xml02.do">xml응답 2</a></li>
+	<li><a href="xml03.do">xml응답 3</a></li>
 	
 </ul>
 <h4>공지사항</h4>
