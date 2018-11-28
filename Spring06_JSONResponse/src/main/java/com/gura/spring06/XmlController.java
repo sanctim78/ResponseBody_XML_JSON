@@ -32,5 +32,4 @@ public class XmlController {
 		d.setName("Daisaku Ikeda");
 		return d;
 	}
-
 }
