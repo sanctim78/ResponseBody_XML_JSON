@@ -9,6 +9,10 @@
 </head>
 <body>
 <h3>인덱스 페이지 입니다.</h3>
+<ul>
+	<li><a href="json01.do">json응답</a></li>
+	<li><a href="json02.do">json응답2</a></li>
+</ul>
 <h4>공지사항</h4>
 <ul>
 	<c:forEach var="tmp" items="${noticeList }">
